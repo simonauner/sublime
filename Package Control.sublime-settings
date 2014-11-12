@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"JsFormat",
-		"Markdown Preview"
+		"Markdown Preview",
+		"Seti_UI"
 	]
 }
