@@ -3,6 +3,7 @@
 	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
 	"detect_indentation": true,
 	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
