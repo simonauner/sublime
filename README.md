@@ -1,8 +1,8 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+My Sublime settings and installed packages.
 
-### Paths ###
+### Default installation paths ###
 
 * *Windows:* c:\users\siau\AppData\Roaming\Sublime Text 3\Packages\User
 * *Mac:* ~/Library/Application Support/Sublime Text 3/Packages/User
