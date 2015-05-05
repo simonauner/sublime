@@ -1,7 +1,4 @@
 [
-	{ "keys": ["super+shift+c"], "command": "toggle_comment", "args": { "block": false } },
-	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
-	{"keys": ["super+alt+f"], "command": "js_format",
-        "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}]
-    }
+	{ "keys": ["alt+c"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
 ]
