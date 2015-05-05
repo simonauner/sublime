@@ -1,8 +1,16 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"JsFormat",
+		"EditorConfig",
+		"JSCS-Formatter",
 		"Markdown Preview",
-		"Seti_UI"
+		"Package Control",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint"
 	]
 }
