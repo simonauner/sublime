@@ -1,12 +1,13 @@
 {
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
-	"detect_indentation": true,
+	"color_scheme": "Packages/User/SublimeLinter/Seti_monokai (SL).tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"preview_on_click": false,
 	"tab_size": 4,
-	"theme": "Seti.sublime-theme"
+	"theme": "Seti.sublime-theme",
+	"trim_trailing_white_space_on_save": true
 }
