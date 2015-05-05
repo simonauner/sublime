@@ -2,6 +2,8 @@
 	"extensions":
 	[
 		".jshintrc",
-		".bowerrc"
+		".bowerrc",
+		".jsbeautifyrc",
+		".jscsrc"
 	]
 }
