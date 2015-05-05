@@ -2,6 +2,7 @@
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/User/SublimeLinter/Seti_monokai (SL).tmTheme",
 	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
