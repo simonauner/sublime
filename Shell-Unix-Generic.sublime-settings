@@ -3,6 +3,9 @@
 	[
 		".aliases",
 		".extra",
-		".bash_prompt"
+		".bash_prompt",
+		".functions",
+		".inputrc",
+		".exports"
 	]
 }
