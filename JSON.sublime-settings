@@ -4,6 +4,7 @@
 		".jshintrc",
 		".bowerrc",
 		".jsbeautifyrc",
-		".jscsrc"
+		".jscsrc",
+		".eslintrc"
 	]
 }

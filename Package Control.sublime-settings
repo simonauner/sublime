@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -8,9 +9,13 @@
 		"JSCS-Formatter",
 		"Markdown Preview",
 		"Package Control",
+		"Pretty JSON",
 		"Seti_UI",
+		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jscs",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"SublimeLinter-json"
 	]
 }

@@ -3,6 +3,7 @@
 	[
 		".aliases",
 		".extra",
-		".bash_prompt"
+		".bash_prompt",
+		".zshrc"
 	]
 }
