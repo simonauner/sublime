@@ -10,6 +10,6 @@
 	],
 	"preview_on_click": false,
 	"tab_size": 4,
-	"theme": "Default.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
