@@ -11,3 +11,4 @@ My Sublime settings and installed packages.
 
 * `alt+m` Markdown preview in Browser with GitHub parser
 * `alt+c` / `cmd+shift+c` Block-comment
+* `cmd+shift+h` ESLintFormatter
