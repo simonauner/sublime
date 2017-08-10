@@ -5,7 +5,7 @@ My Sublime settings and installed packages.
 ### Default installation paths
 
 * *Windows:* c:\users\siau\AppData\Roaming\Sublime Text 3\Packages\User
-* *Mac:* ~/Library/Application Support/Sublime Text 3/Packages/User
+* *Mac:* ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
 
 ### Commands
 
