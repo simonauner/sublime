@@ -9,6 +9,7 @@
 		"DocBlockr",
 		"EditorConfig",
 		"ESLint-Formatter",
+		"JsPrettier",
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
