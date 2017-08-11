@@ -1,5 +1,4 @@
 {
-	"prettier_cli_path": "/Users/siau/.nvm/versions/node/v6.9.1/bin/prettier",
     "debug": false,
     "auto_format_on_save": true,
     "allow_inline_formatting": true,
